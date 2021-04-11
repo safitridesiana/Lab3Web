@@ -11,7 +11,7 @@ Prodi : Teknik Informatika
 
 Mata Kuliah : Pemrograman Web
 
-Dosen Pengajar : Agung Nugroho, S. Kom., M. Kom
+Dosen Pengajar : Agung Nugroho, S. Kom., M. Kom.
 
 MEMBUAT ORDERED LIST
 ![Screenshot (181)](https://user-images.githubusercontent.com/81596251/114303386-1c29cb00-9af8-11eb-88c9-d33650406dfc.png)
